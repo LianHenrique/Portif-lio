@@ -1,0 +1,26 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2_79)">
+<rect width="100" height="100" fill="#6299FF"/>
+<rect x="55" y="62" width="11" height="11" rx="5.5" fill="#634111"/>
+<rect width="43" height="21.8392" transform="translate(12 113.869) rotate(-68)" fill="#185B12"/>
+<rect width="43" height="21.8392" transform="matrix(-0.374607 -0.927184 -0.927184 0.374607 87.357 113.869)" fill="#185B12"/>
+<rect x="36" y="63" width="11" height="11" rx="5.5" fill="#634111"/>
+<rect x="41" y="64" width="11" height="11" rx="5.5" fill="#634111"/>
+<rect x="50" y="63" width="11" height="11" rx="5.5" fill="#634111"/>
+<rect width="8" height="12" transform="translate(46 68)" fill="#D3AE85"/>
+<rect x="28" y="28" width="43" height="43" rx="21.5" fill="#FFD8BD"/>
+<rect x="39" y="48" width="7" height="11" rx="3.5" fill="#271700"/>
+<rect x="54" y="48" width="7" height="11" rx="3.5" fill="#271700"/>
+<rect x="25" y="21" width="24" height="24" rx="12" fill="#634111"/>
+<rect x="23" y="37" width="11" height="11" rx="5.5" fill="#634111"/>
+<rect x="42" y="17" width="11" height="11" rx="5.5" fill="#634111"/>
+<rect x="46" y="19" width="32" height="32" rx="16" fill="#634111"/>
+<rect x="66" y="43" width="11" height="11" rx="5.5" fill="#634111"/>
+<rect width="43" height="40" transform="translate(28 74)" fill="#2F7229"/>
+</g>
+<defs>
+<clipPath id="clip0_2_79">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
