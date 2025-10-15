@@ -13,13 +13,18 @@ function Hero() {
         backgroundColor: theme.palette.primary.main,
         height: "100vh",
         display: "flex",
-        alignItems: "center"
+        alignItems: "center",
+        [theme.breakpoints.up("xs")]: {
+            paddingTop: "100px"
+        },
+        [theme.breakpoints.up("md")]: {
+            paddingTop: "0"
+        },
     }))
 
     const StyledImage = styled("img")(({theme}) => ({
         width: "80%",
         borderRadius: "100%",
-        marginTop: "25px",
         // border: `3px solid ${theme.palette.primary.contrastText}`
     }))
 
